@@ -8,7 +8,7 @@ I'm Vrushik. A Software Developer from Ahmedabad, Gujarat.
     <br>
     - 🔭 I usually work on something saucy :) 
      <br><br>Contact me by 📫<a href="mailto:visavadiyavrushik@gmail.com">Sending an Email</a>
-     <br><br>Web: <a href="https://visavadiyavrushik.github.io/protfolio-v3/">@ Vrushik Visavadiya</a>
+     <br><br>Web: <a href="https://visavadiyavrushik.github.io/protfolio/">@ Vrushik Visavadiya</a>
 
   </samp>
 </p>
