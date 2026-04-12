@@ -1,4 +1,4 @@
-# 💫 About Me:
+ # 💫 About Me:
 👋 Hi, I'm Vrushik<br>I'm a passionate Software Developer based in Ahmedabad, Gujarat. I love creating innovative, cutting-edge solutions that solve real-world problems. Whether it's diving into backend development, writing clean and scalable code, or experimenting with something saucy 🔥,  I’m always up for the challenge.<br><br>🚀 What I’m Working On:<br>Crafting robust, full-stack applications.<br>Exploring the latest tech and tools.<br>Contributing to open-source projects.
 
 
